@@ -26,7 +26,8 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 ### 1. SMS (Sistem Manajemen Siswa) - SMKN 1 Tekung
 <p align="justify">
 <b>Description:</b> A centralized student management system designed for SMKN 1 Tekung to monitor student violations, attendance, achievements, and behavioral points in real-time.<br>
-<b>Tech:</b> Laravel, Tailwind CSS.
+<b>Tech:</b> Laravel, Tailwind CSS.<br>
+<b>Link:</b> <a href="https://sms.smkn1tekung.sch.id/">SMS SMKN 1 Tekung</a>
 </p>
 
 ### 2. 3D Portfolio Website
