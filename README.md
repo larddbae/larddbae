@@ -101,10 +101,11 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 
 ## Socials
 
-| Platform      | Link                                                |
-| ------------- | --------------------------------------------------- |
-| **Instagram** | [@larddbae\_](https://instagram.com/larddbae_)      |
-| **Website**   | [My 3D Portfolio](https://adelardtyanm.netlify.app) |
+| Platform | Link |
+| --- | --- |
+| **Email** | [adelardtyanm@gmail.com](mailto:adelardtyanm@gmail.com) |
+| **Instagram** | [@larddbae_](https://instagram.com/larddbae_) |
+| **Website** | [3D Portfolio](https://adelardtyanm.netlify.app) |
 
 ---
 
