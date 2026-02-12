@@ -17,7 +17,7 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 
 ## 📊 Stats
 
-[![Adelard's GitHub Stats](https://github-readme-stats-larddbae.vercel.app/api?username=larddbae&show_icons=true&theme=tokyonight)](https://github.com/larddbae)
+[![Adelard's GitHub Stats](https://github-readme-stats-larddbae.vercel.app/api?username=larddbae&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/larddbae)
 
 ---
 
